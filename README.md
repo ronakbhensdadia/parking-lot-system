@@ -50,11 +50,7 @@ This is a comprehensive Parking Lot Management System built with Java and Spring
         ```properties
         spring.security.oauth2.client.registration.google.client-id=YOUR_CLIENT_ID
         spring.security.oauth2.client.registration.google.client-secret=YOUR_CLIENT_SECRET
-        ```
-    -   Set your admin email address. This user will be granted the `ADMIN` role upon login.
-        ```properties
-        parking-lot.admin.email=your-admin-email@gmail.com
-        ```
+
 
 ### Running the Application
 
